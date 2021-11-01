@@ -6,7 +6,7 @@
 
 컴파일: https://github.com/BAN-NO77
 
-● JDK(JAVA) 11~16
+● JAVA(JDK) 11~16
 ● Paper(Spigot) 1.16.5
 ● Kotlin
 ● ProtocolLib
