@@ -1,7 +1,0 @@
-name: Aimless
-main: com.github.noonmaru.aimless.plugin.AimlessPlugin
-depend: [Kotlin, ProtocolLib]
-api-version: '1.16'
-version: 0.1.2
-commands:
-  aimless:
