@@ -4,7 +4,7 @@
 원본: https://github.com/noonmaru/aimless
 컴파일 및 수정: https://github.com/BAN-NO77
 
-::marker JDK 11~16
-::marker Paper 1.16.5 (Spigot 1.16.5)
-::marker Kotlin
-::marker ProtocolLib
+● JDK 11~16
+● Paper 1.16.5 (Spigot 1.16.5)
+● Kotlin
+● ProtocolLib
