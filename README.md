@@ -7,6 +7,8 @@ ___
 
 컴파일: https://github.com/BAN-NO77
 
+영상: https://www.youtube.com/playlist?list=PL90_kZB70xkAwL9HSXsjhsXhcmg5tbObk
+
 ___
 ● JAVA(JDK) 11~16
 ● Paper(Spigot) 1.16.5
